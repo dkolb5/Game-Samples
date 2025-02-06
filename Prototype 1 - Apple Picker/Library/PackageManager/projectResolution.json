@@ -1,222 +1,222 @@
 {
   "context": {
-    "projectPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Packages",
-    "unityVersion": "6000.0.20f1"
+    "projectPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Packages",
+    "unityVersion": "6000.0.34f1"
   },
   "inputs": [
-    "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Packages/manifest.json",
-    "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Packages/packages-lock.json"
+    "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Packages/manifest.json",
+    "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Packages/packages-lock.json"
   ],
   "outputs": {
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.ugui",
-      "fingerprint": "b0e0b1c828561e8a0d130fa0e71078e9684ef47f",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.ugui",
+      "fingerprint": "fd5da3b4bec8d043b01c30177bd62059c5fa36d0",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
       "source": "builtin"
     },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.accessibility",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.accessibility",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ai@1.0.0": {
       "name": "com.unity.modules.ai",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.ai",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.ai",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.androidjni@1.0.0": {
       "name": "com.unity.modules.androidjni",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.androidjni",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.androidjni",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.animation@1.0.0": {
       "name": "com.unity.modules.animation",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.animation",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.animation",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.assetbundle@1.0.0": {
       "name": "com.unity.modules.assetbundle",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.assetbundle",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.assetbundle",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.audio@1.0.0": {
       "name": "com.unity.modules.audio",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.audio",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.audio",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.cloth@1.0.0": {
       "name": "com.unity.modules.cloth",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.cloth",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.cloth",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.director@1.0.0": {
       "name": "com.unity.modules.director",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.director",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.director",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imageconversion@1.0.0": {
       "name": "com.unity.modules.imageconversion",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.imageconversion",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.imageconversion",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imgui@1.0.0": {
       "name": "com.unity.modules.imgui",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.imgui",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.imgui",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.jsonserialize@1.0.0": {
       "name": "com.unity.modules.jsonserialize",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.jsonserialize",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.jsonserialize",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.particlesystem@1.0.0": {
       "name": "com.unity.modules.particlesystem",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.particlesystem",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.particlesystem",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics@1.0.0": {
       "name": "com.unity.modules.physics",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.physics",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.physics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics2d@1.0.0": {
       "name": "com.unity.modules.physics2d",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.physics2d",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.physics2d",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.screencapture@1.0.0": {
       "name": "com.unity.modules.screencapture",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.screencapture",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.screencapture",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrain@1.0.0": {
       "name": "com.unity.modules.terrain",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.terrain",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.terrain",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrainphysics@1.0.0": {
       "name": "com.unity.modules.terrainphysics",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.terrainphysics",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.terrainphysics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.tilemap@1.0.0": {
       "name": "com.unity.modules.tilemap",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.tilemap",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.tilemap",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ui@1.0.0": {
       "name": "com.unity.modules.ui",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.ui",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.ui",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.uielements@1.0.0": {
       "name": "com.unity.modules.uielements",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.uielements",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.uielements",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.umbra@1.0.0": {
       "name": "com.unity.modules.umbra",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.umbra",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.umbra",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unityanalytics@1.0.0": {
       "name": "com.unity.modules.unityanalytics",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unityanalytics",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unityanalytics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequest@1.0.0": {
       "name": "com.unity.modules.unitywebrequest",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequest",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequest",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
       "name": "com.unity.modules.unitywebrequestassetbundle",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestaudio@1.0.0": {
       "name": "com.unity.modules.unitywebrequestaudio",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequestaudio",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequesttexture@1.0.0": {
       "name": "com.unity.modules.unitywebrequesttexture",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequesttexture",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestwww@1.0.0": {
       "name": "com.unity.modules.unitywebrequestwww",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequestwww",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vehicles@1.0.0": {
       "name": "com.unity.modules.vehicles",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.vehicles",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.vehicles",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.video@1.0.0": {
       "name": "com.unity.modules.video",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.video",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.video",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vr@1.0.0": {
       "name": "com.unity.modules.vr",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.vr",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.vr",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.wind@1.0.0": {
       "name": "com.unity.modules.wind",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.wind",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.wind",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.xr@1.0.0": {
       "name": "com.unity.modules.xr",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.xr",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.xr",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.subsystems@1.0.0": {
       "name": "com.unity.modules.subsystems",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.subsystems",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.subsystems",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.hierarchycore@1.0.0": {
       "name": "com.unity.modules.hierarchycore",
-      "resolvedPath": "/Users/pichya/Desktop/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.hierarchycore",
+      "resolvedPath": "/Users/dan/Documents/GitHub/ARTI_605_Unity/Game-Samples/Prototype 1 - Apple Picker/Library/PackageCache/com.unity.modules.hierarchycore",
       "version": "1.0.0",
       "source": "builtin"
     }
